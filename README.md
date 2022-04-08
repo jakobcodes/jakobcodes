@@ -2,7 +2,7 @@
 
 Currently, I am a second-year student at Computer Science at the Faculty of Computer Science, Electronics and Telecommunications at AGH UST.
 
-### Languages and technologies i worked with 🔥
+### Languages and technologies I worked with 🔥
 <a href="https://www.java.com/" title="Java"><img src="https://github.com/get-icon/geticon/raw/master/icons/java.svg" alt="Java" width="30px" height="30px"></a>
 <a href="https://www.python.org/" title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="30px" height="30px"></a>
 <a href="https://www.djangoproject.com/" title="Django"><img src="https://github.com/get-icon/geticon/raw/master/icons/django.svg" alt="Django" width="30px" height="30px"></a>
