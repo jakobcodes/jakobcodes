@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Jakub Łubkowski, 
 
-Currently, I am a second-year student at Computer Science at the Faculty of Computer Science, Electronics and Telecommunications at AGH UST.
+Currently, I am a fourth-year student at Computer Science at the Faculty of Computer Science at AGH UST.
 
 ### Languages and technologies I worked with 🔥
 <a href="https://www.java.com/" title="Java"><img src="https://github.com/get-icon/geticon/raw/master/icons/java.svg" alt="Java" width="30px" height="30px"></a>
@@ -20,6 +20,6 @@ Currently, I am a second-year student at Computer Science at the Faculty of Comp
 ### Some stats 📊
 
 <a href="#choose-pinned-repositories">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakobcodes&langs_count=7&title_color=fff&icon_color=000&bg_color=60,0b3866,07f49e&hide_border=true&text_color=111&border_radius=5&count_private=true" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakobcodes&langs_count=7&title_color=fff&icon_color=000&bg_color=60,0b3866,07f49e&hide_border=true&text_color=111&border_radius=5&count_private=true&hide=jupyter%20notebook" />
 </a>
 
